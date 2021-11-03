@@ -1,0 +1,13 @@
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\bin\Debug\netcoreapp3.1\harjoitussivu1.exe
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\bin\Debug\netcoreapp3.1\harjoitussivu1.deps.json
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\bin\Debug\netcoreapp3.1\harjoitussivu1.runtimeconfig.json
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\bin\Debug\netcoreapp3.1\harjoitussivu1.runtimeconfig.dev.json
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\bin\Debug\netcoreapp3.1\harjoitussivu1.dll
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\bin\Debug\netcoreapp3.1\harjoitussivu1.pdb
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\obj\Debug\netcoreapp3.1\harjoitussivu1.csprojAssemblyReference.cache
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\obj\Debug\netcoreapp3.1\harjoitussivu1.csproj.CoreCompileInputs.cache
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\obj\Debug\netcoreapp3.1\harjoitussivu1.AssemblyInfoInputs.cache
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\obj\Debug\netcoreapp3.1\harjoitussivu1.AssemblyInfo.cs
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\obj\Debug\netcoreapp3.1\harjoitussivu1.dll
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\obj\Debug\netcoreapp3.1\harjoitussivu1.pdb
+C:\Users\patrik.toivonen\source\repos\Ohjelmistokehittaja\harjoitussivu1\harjoitussivu1\obj\Debug\netcoreapp3.1\harjoitussivu1.genruntimeconfig.cache
