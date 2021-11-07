@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -21,8 +21,8 @@ namespace harjoitussivu4
             lista.Add(z);
             lista.Add(b);
             lista.Add(a);
-            int maxArvo = lista.Max();
-            Console.WriteLine(maxArvo.ToString());
+            var maxArvo = lista.Max();
+            System.Console.WriteLine(maxArvo);  
         }
     }
 }
